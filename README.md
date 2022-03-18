@@ -13,7 +13,7 @@ Indonesian. Full-Stack Developer. Currently learning.
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)  
 ![Tools](https://img.shields.io/badge/-tools-000000?style=flat-square&logo=Plex&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual%20studio%20code)
