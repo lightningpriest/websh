@@ -9,7 +9,12 @@ I'm still learning, dont be hesitate to ask anything!
 ![Discord Profile](https://img.shields.io/badge/-Eternity%232778-7289da?style=flat-square&logo=discord&logoColor=white)
 
 ## Spotify  
-![aceheartbreaker's recently played](https://spotify-recently-played-readme.vercel.app/api?user=orfnxtvqmq0qudtpjw2ir664m&count=1)
+[![aceheartbreaker's recently played](https://spotify-recently-played-readme.vercel.app/api?user=orfnxtvqmq0qudtpjw2ir664m&count=1)](https://open.spotify.com/user/orfnxtvqmq0qudtpjw2ir664m?si=346b27bab05c4850)  
+
+## Discord
+[![My Discord](https://discord-readme-badge.vercel.app/api?id=852752461479280680)](https://discord.com/users/852752461479280680)
+
+
 
 ## Tools and Languange
 ![Code](https://img.shields.io/badge/-lang-000000?style=flat-square&logo=Plex&logoColor=white)
