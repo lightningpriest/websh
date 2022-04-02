@@ -5,6 +5,9 @@ Indonesian. Full-Stack Developer. Currently learning.
 [![Instagram Badge](https://img.shields.io/badge/-rizzyneck-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rizzyneck/)](https://instagram.com/rizzyneck)
 [![Spotify Profile](https://img.shields.io/badge/-aceheartbreaker-green?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/orfnxtvqmq0qudtpjw2ir664m?si=4fbf00c097b14e99)](https://open.spotify.com/user/orfnxtvqmq0qudtpjw2ir664m?si=4fbf00c097b14e99)
 
+## Spotify  
+![aceheartbreaker's recently played](https://spotify-recently-played-readme.vercel.app/api?user=orfnxtvqmq0qudtpjw2ir664m&count=1)
+
 ## Tools and Languange
 ![Code](https://img.shields.io/badge/-lang-000000?style=flat-square&logo=Plex&logoColor=white)
 ![Pawn](https://img.shields.io/badge/-Pawn-fff6a8?style=flat-square&logo=pawn)
