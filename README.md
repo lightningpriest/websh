@@ -1,7 +1,6 @@
 # Hi! 👋  
 Full Stack Developer from Indonesia 🇮🇩  
 Interested in Web Developing and C++  
-More information can be found above!  
   
 ## Social Media
 [![Instagram Badge](https://img.shields.io/badge/-rizzyneck-833AB4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rizzyneck/)](https://instagram.com/rizzyneck)
