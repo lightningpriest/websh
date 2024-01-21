@@ -1,8 +1,4 @@
 # Hi! 👋  
-  
-## Social Media
-[![Instagram Badge](https://img.shields.io/badge/-rizzyneck-833AB4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rizzyneck/)](https://instagram.com/rizzyneck)
-[![Spotify Profile](https://img.shields.io/badge/-aceheartbreaker-1DB954?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/orfnxtvqmq0qudtpjw2ir664m?si=4fbf00c097b14e99)](https://open.spotify.com/user/orfnxtvqmq0qudtpjw2ir664m?si=4fbf00c097b14e99)
 
 ## Spotify  
 [![aceheartbreaker's recently played](https://spotify-recently-played-readme.vercel.app/api?user=orfnxtvqmq0qudtpjw2ir664m&count=1)](https://open.spotify.com/user/orfnxtvqmq0qudtpjw2ir664m?si=346b27bab05c4850)  
